@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS and Networking**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wolv3rine1304?tab=repositories](https://github.com/wolv3rine1304?tab=repositories)
+- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/wolv3rine1304?tab=repositories)
 
 - 📫 How to reach me: **sachinlakum1304@gmail.com**
 
