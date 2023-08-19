@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wolv3rine1304?tab=repositories](https://github.com/wolv3rine1304?tab=repositories)
 
-- 📫 How to reach me **sachinlakum1304@gmail.com**
+- 📫 How to reach me: **sachinlakum1304@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I5n-n3RWB-igorcdlrmoknbZ4p7YLwui/view?usp=sharing](https://drive.google.com/file/d/1I5n-n3RWB-igorcdlrmoknbZ4p7YLwui/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1I5n-n3RWB-igorcdlrmoknbZ4p7YLwui/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
