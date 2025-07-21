@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Lakum</h1>
 <h3 align="center">I'm a passionate Data Analytics enthusiast.</h3>
 
-- 🌱 I’m currently learning **AWS and Networking**
+- 🏢 I’m currently working as **Quintiq Specialist**
 
 - 👨‍💻 All of my projects are available at: [GitHub](https://github.com/wolv3rine1304?tab=repositories)
 
